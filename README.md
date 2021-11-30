@@ -115,6 +115,4 @@ Execute the program
 </body>
 </html>
 
-
 # OUPUT
-!Clientside(./images/clientside.png)
