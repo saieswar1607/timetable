@@ -14,6 +14,7 @@ Add your timetable
 Execute the program
 
 # CODE
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -114,6 +115,6 @@ Execute the program
 </html>
 </body>
 </html>
-
+```
 # OUPUT
 ![clientside](./images/clientside.png)
